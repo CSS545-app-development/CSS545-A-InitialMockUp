@@ -1,6 +1,6 @@
 CSS545 (Initial MockUp) - Sahithi C
 
-'''Brief description -'''
+**Brief description -**
 
 The design of the vegetarian recipe app is simple and tailored for users seeking convenience, speed and highly relevant to the target demographic (busy individuals and health-conscious users). 
 The home screen features easy navigation through key sections like popular recipes (based on ratings), spice level options (mild to hot), quick meals (prepared in less time), and saved recipes. 
